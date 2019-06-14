@@ -17,4 +17,12 @@
      
      - Independent operators can sign up to get work and post their rates for work with vehicles etc.
      
-     - Your visibility by city/market would be based on your profile and your overall score
+     - Your visibility by city/market would be based on your profile and your overall score'
+     
+    #### Profile
+    - Vehicle Info
+        - Pictures
+     - Regular Rates
+     - Insurance
+     - Reviews
+     
